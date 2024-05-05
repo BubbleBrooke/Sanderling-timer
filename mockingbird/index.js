@@ -144,12 +144,14 @@ vm = new Vue({
   data: {
     states: {
       Searching: [],
+      Foraging: [],
       Handling: [],
       Standing: [],
       Resting: [],
     },
     events: {
       provision: [],
+      Fly: [],
       Comment: [],
     },
     toggles: {
