@@ -152,6 +152,7 @@ vm = new Vue({
     events: {
       provision: [],
       Fly: [],
+      Food_Stolen: [],
       Comment: [],
     },
     toggles: {
